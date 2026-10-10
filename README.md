@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software Engineer at GE HealthCare
+🔭 Software Engineer at GE HealthCare<br>
 👯 I'm looking to collaborate on **AI-powered tools & SaaS products**<br>
 🌱 Currently learning **AI/ML, Agentic AI & building autonomous systems**<br>
 💬 Ask me about **Full-stack development, AI integrations, or backend architecture**<br>
