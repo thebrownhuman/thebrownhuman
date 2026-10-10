@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on **Viewpoint** — A reporting software at GE Healthcare<br>
+🔭 Software Engineer at GE HealthCare
 👯 I'm looking to collaborate on **AI-powered tools & SaaS products**<br>
 🌱 Currently learning **AI/ML, Agentic AI & building autonomous systems**<br>
 💬 Ask me about **Full-stack development, AI integrations, or backend architecture**<br>
