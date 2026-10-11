@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I'm **Shivansh Mishra**, Software Engineer at GE HealthCare, Bangalore [shivanshmishra.in](https://shivanshmishra.in)<br>
+🔭 I'm **Shivansh Mishra**, Software Engineer at GE HealthCare, Bangalore [shivanshmishra.in]<br>
 👯 I'm looking to collaborate on **AI-powered tools & SaaS products**<br>
 🌱 Currently learning **AI/ML, Agentic AI & building autonomous systems**<br>
 💬 Ask me about **Full-stack development, AI integrations, or backend architecture**<br>
 ⚡ Fun fact: I built an infrastructure that consists of Global-ID, Bank, and Shopping Website
-
+(https://shivanshmishra.in)
 
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-shivanshmishra.in-0a0e17?logo=googlechrome&logoColor=white)](https://shivanshmishra.in) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thebrownhuman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thebrownhuman) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thebrownhuman) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thebrownhuman@gmail.com)
